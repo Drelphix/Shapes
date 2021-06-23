@@ -1,6 +1,5 @@
 package by.demeshko.shape.parser.impl;
 
-import by.demeshko.shape.entity.Ball;
 import by.demeshko.shape.parser.BallParser;
 import by.demeshko.shape.validator.BallValidator;
 

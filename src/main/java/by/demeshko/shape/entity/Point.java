@@ -58,4 +58,6 @@ public class Point {
                 "y: " + y +
                 "z: " + z;
     }
+
+
 }

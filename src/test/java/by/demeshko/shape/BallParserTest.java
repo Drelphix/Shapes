@@ -1,4 +1,4 @@
-package by.demeshko.shape.parser;
+package by.demeshko.shape;
 
 import org.junit.jupiter.api.Test;
 
