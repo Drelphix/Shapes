@@ -21,10 +21,9 @@ public class CustomFileReaderImpl implements CustomFileReader {
 
     @Override
     public List<String> readFile(String filePath) throws BallException {
-        if(filePath.isEmpty()){
-            filePath = TEST_BALL_FILE_PATH;
-            logger.info("Path is empty. Using default filepath: " + TEST_BALL_FILE_PATH);
-        }
+        logger.info(filePath.isEmpty()?
+                filePath = TEST_BALL_FILE_PATH:
+                "Using new file " + filePath);
         Path path = Paths.get(filePath);
         try (Stream<String> lines = Files.lines(path)) {
             return lines.collect(Collectors.toCollection(ArrayList::new));

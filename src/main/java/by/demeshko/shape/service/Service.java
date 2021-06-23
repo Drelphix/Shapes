@@ -4,11 +4,11 @@ import by.demeshko.shape.entity.Ball;
 
 public interface Service {
 
-    public Double findBallVolume(Ball ball);
+    public Double findBallSize(Ball ball);
 
     public Double findBallSurfaceArea(Ball ball);
 
-    public boolean isBall();
+
 
     public boolean touchCoordinatePlane();
 

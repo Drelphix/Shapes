@@ -14,5 +14,4 @@ public class BallException extends Exception{
     public BallException(String message, Throwable throwable){
         super(message,throwable);
     }
-
 }

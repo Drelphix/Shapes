@@ -1,44 +1,57 @@
 package by.demeshko.shape.entity;
 
 public class Ball {
-    private double centerX;
-    private double centerY;
-    private double centerZ;
+    private int id;
+    private Point center;
+    private Point atCircle;
     private double radius;
 
-    public Ball(double centerX, double centerY, double centerZ, double radius) {
-        this.centerX = centerX;
-        this.centerY = centerY;
-        this.centerZ = centerZ;
+
+    public Ball(int id,Point center, double radius) {
+        this.center = center;
         this.radius = radius;
+        this.id = id;
     }
 
-    public double getCenterX() {
-        return centerX;
+    public Ball(int id, Point center, Point atCircle){
+        this.id = id;
+        this.center = center;
+        this.atCircle = atCircle;
+        this.radius = Math.abs(Math.sqrt ( Math.pow(atCircle.getX() - center.getX(),2))
+                +Math.pow(atCircle.getY() - center.getY(),2)
+                +Math.pow(atCircle.getZ() - center.getZ(),2));
     }
 
-    public void setCenterX(double centerX) {
-        this.centerX = centerX;
+    public int getId() {
+        return id;
     }
 
-    public double getCenterY() {
-        return centerY;
+    public void setId(int id) {
+        this.id = id;
     }
 
-    public void setCenterY(double centerY) {
-        this.centerY = centerY;
+    public Point getCenter() {
+        return new Point(center.getX(),
+                         center.getY(),
+                         center.getZ());
     }
 
-    public double getCenterZ() {
-        return centerZ;
+    public Point getAtCircle() {
+        return atCircle;
     }
 
-    public void setCenterZ(double centerZ) {
-        this.centerZ = centerZ;
+    public void setAtCircle(Point atCircle) {
+        this.atCircle = atCircle;
     }
 
     public double getRadius() {
         return radius;
+    }
+
+    public void setCenter(Point center) {
+        this.center = new Point(center.getX(),
+                                center.getY(),
+                                center.getZ());
     }
 
     public void setRadius(double radius) {
@@ -50,24 +63,22 @@ public class Ball {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Ball ball = (Ball) o;
-        return Double.compare(ball.centerX, centerX) == 0 && Double.compare(ball.centerY, centerY) == 0 && Double.compare(ball.centerZ, centerZ) == 0 && Double.compare(ball.radius, radius) == 0;
+        return (Double.compare(ball.radius, radius) == 0) &&
+                (center.equals(ball.center)) &&
+                (this.id == ball.id);
     }
 
     @Override
     public int hashCode() {
-        int result = 40;
-        result = 20 * result * (int) centerX;
-        result = 20 * result * (int) centerY;
-        result = 20 * result * (int) centerZ;
+        int result = this.center.hashCode();
         result = 20 * result * (int) radius;
+        result = 20 * result * id;
         return result;
     }
 
     @Override
     public String toString() {
-        return "centerX: " + centerX +
-                ", centerY: " + centerY +
-                ", centerZ: " + centerZ +
+        return  this.center.toString()+
                 ", radius: " + radius;
     }
 }
