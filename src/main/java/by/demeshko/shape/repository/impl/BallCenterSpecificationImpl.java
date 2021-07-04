@@ -15,5 +15,5 @@ public class BallCenterSpecificationImpl implements BallSpecification {
     @Override
     public boolean specify(Ball ball) {
         return false;
-    }
+    } //TODO 04.07.2021 23:59 :
 }

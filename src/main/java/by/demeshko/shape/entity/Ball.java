@@ -5,6 +5,8 @@ public class Ball extends Shape {
     private Point atCircle;
 
 
+    public Ball() {}
+
     public Ball(int id, Point center, Point atCircle) {
         this.setId(id);
         this.center = new Point(center.getX(), center.getY(), center.getZ());

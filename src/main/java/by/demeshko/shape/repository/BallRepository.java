@@ -2,6 +2,9 @@ package by.demeshko.shape.repository;
 
 import by.demeshko.shape.entity.Ball;
 
+import java.util.Comparator;
+import java.util.List;
+
 public interface BallRepository {
 
     boolean addBall(Ball ball);
@@ -13,4 +16,8 @@ public interface BallRepository {
     Ball setBall(int index, Ball ball);
 
     int size();
+
+    public List<Ball> query(BallSpecification specification);
+
+    public void sort(Comparator<? super Ball> comparator);
 }
