@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface CustomFileReader {
 
-    public List<String> readFile(String file) throws BallException;
+    List<String> readFile(String file) throws BallException;
 }

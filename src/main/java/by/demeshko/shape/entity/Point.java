@@ -53,10 +53,10 @@ public class Point {
     }
 
     @Override
-    public String toString(){
-        return  "x: " + x +
+    public String toString() {
+        return "Point { x: " + x +
                 "y: " + y +
-                "z: " + z;
+                "z: " + z + " }";
     }
 
 

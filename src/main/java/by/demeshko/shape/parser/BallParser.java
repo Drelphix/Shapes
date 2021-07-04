@@ -4,5 +4,5 @@ import java.util.List;
 
 public interface BallParser {
 
-    public List<double[]> parseStringList(List<String> lines);
+    List<double[]> parseStringList(List<String> lines);
 }

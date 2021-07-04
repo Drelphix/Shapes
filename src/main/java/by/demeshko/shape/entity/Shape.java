@@ -3,6 +3,7 @@ package by.demeshko.shape.entity;
 public class Shape {
     private int id;
 
+
     public int getId() {
         return id;
     }

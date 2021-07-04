@@ -1,36 +1,28 @@
 package by.demeshko.shape.validator;
 
 
-import by.demeshko.shape.entity.Point;
-
-import java.util.Arrays;
+import by.demeshko.shape.entity.Ball;
 
 public class BallValidator {
 
-    public static boolean isCorrectLine(String line, String splitRegex, String doubleRegex){
-        return Arrays.stream(line.split(splitRegex)).allMatch(i -> i.matches(doubleRegex));
-    }
-
-    public static boolean isBall(Point[] points){
-        if(points.length < 2){
+    public static boolean isBall(Object o) {
+        Ball ball = new Ball();
+        if (ball == o) {
+            return true;
+        }
+        if ((o == null) || (ball.getClass() != o.getClass())) {
             return false;
         }
-        for (int i = 0; i < points.length; i++) {
-            if(!points[i].equals(points[i+1])){
-                return true;
-            }
-        }
-        return false;
+        ball = (Ball) o;
+        return !ball.getCenter().equals(ball.getAtCircle());
     }
 
-    public static boolean isBall(Double radius, Point[] points) {
-        return (radius > 0) && points.length > 1;
-    }
-
-    public static boolean isBall(double[] points){
-        if(points.length == 4) {
-            return points[3] > 0;
+    public static boolean isBall(double[] params) {
+        if (params.length != 6) {
+            return false;
         }
-        return points.length % 3 == 0;
+        return params[0] != params[3] ||
+                params[1] != params[4] ||
+                params[2] != params[5];
     }
 }

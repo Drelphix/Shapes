@@ -7,18 +7,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BallRepositoryImpl implements BallRepository {
-    private List<Ball> balls = new ArrayList<>();
+    private final List<Ball> balls = new ArrayList<>();
 
     @Override
     public boolean addBall(Ball ball) {
-        return  balls.add(ball);
+        return balls.add(ball);
     }
 
     @Override
     public boolean removeBall(Ball ball) {
         return balls.remove(ball);
     }
-
 
     @Override
     public Ball getBall(int index) {

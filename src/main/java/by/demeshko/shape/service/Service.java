@@ -2,20 +2,15 @@ package by.demeshko.shape.service;
 
 import by.demeshko.shape.entity.Ball;
 import by.demeshko.shape.entity.Point;
-
-import java.util.List;
+import by.demeshko.shape.exception.BallException;
 
 public interface Service {
 
-    public Double findBallSize(Ball ball);
+    Double calculateBallVolume(Ball ball);
 
-    public Double findBallSurfaceArea(Ball ball);
+    Double calculateBallSurfaceArea(Ball ball);
 
-    public boolean isBall(Object o);
+    boolean touchCoordinatePlane(Ball ball);
 
-    public boolean touchCoordinatePlane(Ball ball);
-
-    public double findVolumeRatio();
-
-    public Point findFarthestPoint(List<Point> points);
+    double calculateVolumeRatio(Ball ball, Point[] points) throws BallException;
 }

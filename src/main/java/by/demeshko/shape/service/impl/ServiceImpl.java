@@ -2,42 +2,27 @@ package by.demeshko.shape.service.impl;
 
 import by.demeshko.shape.entity.Ball;
 import by.demeshko.shape.entity.Point;
+import by.demeshko.shape.exception.BallException;
 import by.demeshko.shape.service.Service;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class ServiceImpl implements Service {
 
     @Override
-    public Double findBallSize(Ball ball) {
-        return 4/3 * Math.PI * Math.pow(ball.getRadius(),3);
+    public Double calculateBallVolume(Ball ball) {
+        return 4 / 3 * Math.PI * Math.pow(calculateDistance(ball.getCenter(), ball.getAtCircle()), 3);
     }
 
     @Override
-    public Double findBallSurfaceArea(Ball ball) {
-        return 4 * Math.PI * Math.pow(ball.getRadius(),2);
-    }
-
-    @Override
-    public boolean isBall(Object o) {
-        Ball checkBall = new Ball();
-        if (checkBall == o) {
-            return true;
-        }
-        if ( (o == null) || (checkBall.getClass() != o.getClass()) ){
-            return false;
-        }
-        checkBall = (Ball) o;
-        return checkBall.getRadius() > 0 || findRadius(checkBall.getCenter(), checkBall.getAtCircle()) > 0;
-
+    public Double calculateBallSurfaceArea(Ball ball) {
+        return 4 * Math.PI * Math.pow(calculateDistance(ball.getCenter(), ball.getAtCircle()), 2);
     }
 
     @Override
     public boolean touchCoordinatePlane(Ball ball) {
-        double radius = ball.getRadius();
-        if(radius == 0){
-            radius = findRadius(ball.getCenter(), ball.getAtCircle());
+        double radius = calculateDistance(ball.getCenter(), ball.getAtCircle());
+        if (radius == 0) {
+            radius = calculateDistance(ball.getCenter(), ball.getAtCircle());
         }
         Point center = ball.getCenter();
         return Math.abs(center.getX()) - radius == 0 ||
@@ -46,26 +31,40 @@ public class ServiceImpl implements Service {
     }
 
     @Override
-    public double findVolumeRatio() {
-        return 0;
-    }
-
-    @Override
-    public Point findFarthestPoint(List<Point> points) {
-        Point center = points.get(0);
-        Point maxAtCircle = points.get(1);
-        for (int i = 2; i < points.size(); i++) {
-            if(findRadius(center, maxAtCircle) < findRadius(center, points.get(i)) ){
-                maxAtCircle = points.get(i);
-            }
+    public double calculateVolumeRatio(Ball ball, Point[] planePoints) throws BallException {
+        if (planePoints.length != 2) {
+            throw new BallException();
         }
-        return maxAtCircle;
+        double radius = calculateDistance(ball.getCenter(), ball.getAtCircle());
+        double radiusPoint1 = calculateDistance(ball.getCenter(), planePoints[0]);
+        double radiusPoint2 = calculateDistance(ball.getCenter(), planePoints[1]);
+        Point centerPlane;
+        double chord;
+        double height1;
+        double height2;
+        if (radiusPoint1 != radiusPoint2 || radiusPoint2 != radius) {
+            throw new BallException();
+        } else {
+            centerPlane = new Point((planePoints[0].getX() + planePoints[1].getX()) / 2,
+                    (planePoints[0].getY() - planePoints[1].getY()) / 2,
+                    (planePoints[0].getZ() - planePoints[1].getZ()) / 2);
+            chord = calculateDistance(ball.getCenter(), centerPlane);
+            height1 = radius - chord;
+            height2 = radius * 2 - height1;
+        }
+        return calculateBallSegmentVolume(height1, radius) / calculateBallSegmentVolume(height2, radius);
     }
 
-    private double findRadius(Point center, Point atCircle){
-        return Math.abs(Math.sqrt ( Math.pow(atCircle.getX() - center.getX(),2))
-                +Math.pow(atCircle.getY() - center.getY(),2)
-                +Math.pow(atCircle.getZ() - center.getZ(),2));
+
+    public double calculateDistance(Point center, Point atCircle) {
+        return Math.abs(Math.sqrt(Math.pow(atCircle.getX() - center.getX(), 2))
+                + Math.pow(atCircle.getY() - center.getY(), 2)
+                + Math.pow(atCircle.getZ() - center.getZ(), 2));
     }
+
+    private double calculateBallSegmentVolume(double height, double radius) {
+        return height * height * (radius - (double) 1 / 3 * height);
+    }
+
 
 }

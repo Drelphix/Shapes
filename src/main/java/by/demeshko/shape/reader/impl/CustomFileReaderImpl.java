@@ -5,7 +5,6 @@ import by.demeshko.shape.reader.CustomFileReader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -16,13 +15,13 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class CustomFileReaderImpl implements CustomFileReader {
-    private static final String TEST_BALL_FILE_PATH="./files/TestBall.txt";
+    private static final String TEST_BALL_FILE_PATH = "./files/TestBall.txt";
     private static final Logger logger = LogManager.getLogger();
 
     @Override
     public List<String> readFile(String filePath) throws BallException {
-        logger.info(filePath.isEmpty()?
-                filePath = TEST_BALL_FILE_PATH:
+        logger.info(filePath.isEmpty() ?
+                filePath = TEST_BALL_FILE_PATH :
                 "Using new file " + filePath);
         Path path = Paths.get(filePath);
         try (Stream<String> lines = Files.lines(path)) {
