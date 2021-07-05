@@ -12,9 +12,15 @@ import java.util.stream.Collectors;
 public class BallRepositoryImpl implements BallRepository {
     private final List<Ball> balls = new ArrayList<>();
 
+    private BallRepositoryImpl() {
+    }
+
+    public static BallRepository getInstance() {
+        return Singleton.BALL_REPOSITORY;
+    }
     @Override
     public boolean addBall(Ball ball) {
-        return balls.add(ball);
+        return balls.add(new Ball(ball.getId(), ball.getCenter(), ball.getAtCircle()));
     }
 
     @Override
@@ -24,12 +30,12 @@ public class BallRepositoryImpl implements BallRepository {
 
     @Override
     public Ball getBall(int index) {
-        return null;
+        return balls.get(index);
     }
 
     @Override
     public Ball setBall(int index, Ball ball) {
-        return null;
+        return balls.set(index, ball);
     }
 
     @Override
@@ -37,6 +43,12 @@ public class BallRepositoryImpl implements BallRepository {
         return balls.size();
     }
 
+    public boolean addAll(List<Ball> balls) {
+        return this.balls.addAll(List.copyOf(balls));
+    }
+    public List<Ball> getAll(){
+        return List.copyOf(this.balls);
+    }
     @Override
     public List<Ball> query(BallSpecification specification) {
         return balls.stream().filter(specification::specify).collect(Collectors.toList());
@@ -47,5 +59,8 @@ public class BallRepositoryImpl implements BallRepository {
         balls.sort(comparator);
     }
 
+    private static class Singleton {
+        private static final BallRepository BALL_REPOSITORY = new BallRepositoryImpl();
+    }
 
 }

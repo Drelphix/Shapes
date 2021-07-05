@@ -17,7 +17,11 @@ public interface BallRepository {
 
     int size();
 
+    public List<Ball> getAll();
+
     public List<Ball> query(BallSpecification specification);
 
     public void sort(Comparator<? super Ball> comparator);
+
+    public boolean addAll(List<Ball> list);
 }

@@ -6,14 +6,7 @@ import by.demeshko.shape.entity.Ball;
 public class BallValidator {
 
     public static boolean isBall(Object o) {
-        Ball ball = new Ball();
-        if (ball == o) {
-            return true;
-        }
-        if ((o == null) || (ball.getClass() != o.getClass())) {
-            return false;
-        }
-        ball = (Ball) o;
+        Ball ball = (Ball) o;
         return !ball.getCenter().equals(ball.getAtCircle());
     }
 

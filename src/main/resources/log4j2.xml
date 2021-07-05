@@ -11,7 +11,7 @@
         </Console>
     </Appenders>
     <Loggers>
-        <Logger name="com.example" level="debug"/>
+        <Logger name="by.demeshko.shape" level="debug"/>
         <Root level="INFO">
             <AppenderRef ref="STDOUT"/>
             <AppenderRef ref="FILE"/>

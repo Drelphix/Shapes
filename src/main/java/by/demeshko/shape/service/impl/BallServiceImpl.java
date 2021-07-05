@@ -3,10 +3,10 @@ package by.demeshko.shape.service.impl;
 import by.demeshko.shape.entity.Ball;
 import by.demeshko.shape.entity.Point;
 import by.demeshko.shape.exception.BallException;
-import by.demeshko.shape.service.Service;
+import by.demeshko.shape.service.BallService;
 
 
-public class ServiceImpl implements Service {
+public class BallServiceImpl implements BallService {
 
     @Override
     public Double calculateBallVolume(Ball ball) {
@@ -56,10 +56,16 @@ public class ServiceImpl implements Service {
     }
 
 
-    public double calculateDistance(Point center, Point atCircle) {
-        return Math.abs(Math.sqrt(Math.pow(atCircle.getX() - center.getX(), 2))
-                + Math.pow(atCircle.getY() - center.getY(), 2)
-                + Math.pow(atCircle.getZ() - center.getZ(), 2));
+    public double calculateRadius(Ball ball) {
+        Point center = ball.getCenter();
+        Point atCircle = ball.getAtCircle();
+        return calculateDistance(center, atCircle);
+    }
+
+    private double calculateDistance(Point center, Point second) {
+        return Math.abs(Math.sqrt(Math.pow(second.getX() - center.getX(), 2))
+                + Math.pow(second.getY() - center.getY(), 2)
+                + Math.pow(second.getZ() - center.getZ(), 2));
     }
 
     private double calculateBallSegmentVolume(double height, double radius) {

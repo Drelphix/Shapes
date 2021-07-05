@@ -1,11 +1,13 @@
 package by.demeshko.shape.entity;
 
-public class Ball extends Shape {
+import by.demeshko.shape.observer.BallEvent;
+import by.demeshko.shape.observer.BallObservable;
+import by.demeshko.shape.observer.BallObserver;
+
+public class Ball extends Shape implements BallObservable {
     private Point center;
     private Point atCircle;
-
-
-    public Ball() {}
+    private BallObserver observer;
 
     public Ball(int id, Point center, Point atCircle) {
         this.setId(id);
@@ -17,12 +19,14 @@ public class Ball extends Shape {
         return new Point(center.getX(),
                 center.getY(),
                 center.getZ());
+
     }
 
     public void setCenter(Point center) {
         this.center = new Point(center.getX(),
                 center.getY(),
                 center.getZ());
+        notifyObservers();
     }
 
     public Point getAtCircle() {
@@ -35,6 +39,24 @@ public class Ball extends Shape {
         this.atCircle = new Point(atCircle.getX(),
                 atCircle.getY(),
                 atCircle.getZ());
+        notifyObservers();
+    }
+
+    @Override
+    public void attach(BallObserver observer) {
+        this.observer = observer;
+    }
+
+    @Override
+    public void detach() {
+        this.observer = null;
+    }
+
+    @Override
+    public void notifyObservers() {
+        if (observer != null){
+            observer.updateParameters(new BallEvent(this));
+        }
     }
 
     @Override
@@ -59,4 +81,5 @@ public class Ball extends Shape {
                 this.atCircle.toString();
 
     }
+
 }

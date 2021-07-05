@@ -1,9 +1,9 @@
 package by.demeshko.shape.util;
 
 public class ShapeIdGenerator {
-    private long id;
+    private int id;
 
-    public long generateId() {
+    public int generateId() {
         return ++id;
     }
 }

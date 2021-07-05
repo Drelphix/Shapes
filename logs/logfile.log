@@ -1,0 +1,216 @@
+INFO  | 2021-07-05 21:29:16 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:29:37 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:29:45 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:32:31 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:34:18 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:34:29 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:34:38 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:36:13 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:37:38 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:38:55 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:39:01 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:39:16 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:40:29 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:44:27 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:44:56 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:46:51 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:47:11 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 21:48:11 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:09:33 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:09:46 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:11:44 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:13:35 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:18:54 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:19:00 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:19:55 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:26:03 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:28:30 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:30:35 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:31:43 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:32:24 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:00 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:36:23 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 8694631.816751076, surfaceArea = 247710.3081695463, radius = 140.4}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.1548479868380515E8, surfaceArea = 1389290.8112337464, radius = 332.5}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.5163867694681095E7, surfaceArea = 358908.11111671233, radius = 169.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 2.0874852740713798E7, surfaceArea = 444145.8029939106, radius = 188.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 2836321.439616584, surfaceArea = 117385.26392619075, radius = 96.65}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.1302675975290554E7, surfaceArea = 295051.2556363781, radius = 153.23000000000002}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.4143209511636123E8, surfaceArea = 1590286.1091399475, radius = 355.74}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 955917.608541732, surfaceArea = 56849.099526716134, radius = 67.26}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 3.590411875088968E7, surfaceArea = 637587.014444212, radius = 225.25}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 1.4465271160664535E8, surfaceArea = 1614337.499097655, radius = 358.41999999999996}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.925320973682055E7, surfaceArea = 420835.1855042743, radius = 183.0}
+INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 2.9511904617929418E7, surfaceArea = 559467.3861218847, radius = 211.0}
+INFO  | 2021-07-05 22:39:57 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:39:57 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: 1.5y: 2.6z: 1.1 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: 17.0y: 5.0z: 15.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 12.5y: 17.0z: 10.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 10.0y: 9.0z: 16.0 }; Point { x: -2.0y: 6.0z: -5.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 25.1y: 10.3z: 16.2 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 25.1y: 10.3z: 16.2 }; Point { x: -5.1y: -6.0z: -7.2 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.1y: -6.0z: -7.2 }; Point { x: -1.0y: -15.0z: -16.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -10.3y: 5.6z: 15.0 }; Point { x: 10.0y: -5.0z: 12.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 16.0y: 12.5z: -5.0 }; Point { x: 0.2y: 0.1z: -1.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: -12.0y: -25.0z: -3.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: -2.0z: 6.0 }; Point { x: -5.0y: 25.0z: 12.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: 25.0z: 12.0 }; Point { x: -5.0y: -2.0z: 6.0 }; 
+INFO  | 2021-07-05 22:39:57 | [main] Application (Application.java:67) - recalculated parameters
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 1.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: -0.5y: 1.0z: 2.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 0.5y: 2.0z: 3.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 10.0y: 9.0z: 16.0 }; Point { x: 1.5y: 3.0z: 4.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 2.5y: 4.0z: 5.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 25.1y: 10.3z: 16.2 }; Point { x: 3.5y: 5.0z: 6.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.1y: -6.0z: -7.2 }; Point { x: 4.5y: 6.0z: 7.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -10.3y: 5.6z: 15.0 }; Point { x: 5.5y: 7.0z: 8.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 16.0y: 12.5z: -5.0 }; Point { x: 6.5y: 8.0z: 9.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: 7.5y: 9.0z: 10.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: -2.0z: 6.0 }; Point { x: 8.5y: 10.0z: 11.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: 25.0z: 12.0 }; Point { x: 9.5y: 11.0z: 12.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] util.ArrayList (ArrayList.java:1511) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 1.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -10.3y: 5.6z: 15.0 }; Point { x: 5.5y: 7.0z: 8.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 2.5y: 4.0z: 5.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 1.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 25.1y: 10.3z: 16.2 }; Point { x: 3.5y: 5.0z: 6.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 0.5y: 2.0z: 3.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 10.0y: 9.0z: 16.0 }; Point { x: 1.5y: 3.0z: 4.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: -2.0z: 6.0 }; Point { x: 8.5y: 10.0z: 11.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: 25.0z: 12.0 }; Point { x: 9.5y: 11.0z: 12.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 16.0y: 12.5z: -5.0 }; Point { x: 6.5y: 8.0z: 9.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: -0.5y: 1.0z: 2.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.1y: -6.0z: -7.2 }; Point { x: 4.5y: 6.0z: 7.5 }; 
+INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: 7.5y: 9.0z: 10.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4164377.165651795, surfaceArea = 151638.67694681094, radius = 109.85}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 9.472790945837885E7, surfaceArea = 1217386.7882201297, radius = 311.25}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 7859037.97826305, surfaceArea = 231573.86307957422, radius = 135.75}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 1.164238202370893E7, surfaceArea = 300933.9456855297, radius = 154.75}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 1513903.0388825524, surfaceArea = 77239.95096339553, radius = 78.4}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 6192053.060312296, surfaceArea = 197545.1606416429, radius = 125.38}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 2.0119767717095262E8, surfaceArea = 2011524.1787693033, radius = 400.09}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 347652.2068720944, surfaceArea = 28964.98286791039, radius = 48.010000000000005}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 6.1835968200607896E7, surfaceArea = 916088.4177867837, radius = 270.0}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 2.048096492723474E8, surfaceArea = 2035527.1128019223, radius = 402.46999999999997}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 2.5038611209747776E7, surfaceArea = 501398.9729110944, radius = 199.75}
+INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 3.0252312572896045E7, surfaceArea = 568786.1353305954, radius = 212.75}
+INFO  | 2021-07-05 22:44:55 | [main] util.ArrayList (ArrayList.java:1511) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 2.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -10.3y: 5.6z: 15.0 }; Point { x: 5.5y: 7.0z: 9.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 2.5y: 4.0z: 6.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 2.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 25.1y: 10.3z: 16.2 }; Point { x: 3.5y: 5.0z: 7.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 0.5y: 2.0z: 4.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 10.0y: 9.0z: 16.0 }; Point { x: 1.5y: 3.0z: 5.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: -2.0z: 6.0 }; Point { x: 8.5y: 10.0z: 12.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: 25.0z: 12.0 }; Point { x: 9.5y: 11.0z: 13.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 16.0y: 12.5z: -5.0 }; Point { x: 6.5y: 8.0z: 10.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: -0.5y: 1.0z: 3.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.1y: -6.0z: -7.2 }; Point { x: 4.5y: 6.0z: 8.5 }; 
+INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: 7.5y: 9.0z: 11.5 }; 

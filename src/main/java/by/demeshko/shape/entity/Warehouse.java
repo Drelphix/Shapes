@@ -2,9 +2,7 @@ package by.demeshko.shape.entity;
 
 import by.demeshko.shape.exception.BallException;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 
 public class Warehouse {
     private final Map<Integer, BallParameter> parameters = new HashMap<>();
