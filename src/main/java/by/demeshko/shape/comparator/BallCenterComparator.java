@@ -14,6 +14,6 @@ public class BallCenterComparator implements Comparator<Ball> {
         int compareX = Double.compare(centerBall1.getX(), centerBall2.getX());
         int compareY = Double.compare(centerBall1.getY(), centerBall2.getY());
         int compareZ = Double.compare(centerBall1.getZ(), centerBall2.getZ());
-        return compareX == 1 && compareY == 1 && compareZ == 0 ? 0 : -1;
+        return compareX == 0 && compareY == 0 && compareZ == 0 ? 0 : -1;
     }
 }

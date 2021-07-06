@@ -7,11 +7,9 @@ import by.demeshko.shape.observer.BallEvent;
 import by.demeshko.shape.observer.BallObserver;
 import by.demeshko.shape.service.BallService;
 import by.demeshko.shape.service.impl.BallServiceImpl;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 public class BallObserverImpl implements BallObserver {
-    private static final Logger logger = LogManager.getLogger();
+
     @Override
     public void updateParameters(BallEvent ballEvent) {
         Warehouse warehouse = Warehouse.getInstance();

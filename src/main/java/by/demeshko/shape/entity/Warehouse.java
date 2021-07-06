@@ -34,4 +34,6 @@ public class Warehouse {
     private static class Singleton {
         private static final Warehouse WAREHOUSE = new Warehouse();
     }
+
+
 }

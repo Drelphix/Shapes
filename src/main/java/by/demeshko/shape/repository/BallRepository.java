@@ -11,17 +11,18 @@ public interface BallRepository {
 
     boolean removeBall(Ball ball);
 
+
     Ball getBall(int index);
 
     Ball setBall(int index, Ball ball);
 
     int size();
 
-    public List<Ball> getAll();
+    List<Ball> getAll();
 
-    public List<Ball> query(BallSpecification specification);
+    List<Ball> query(BallSpecification specification);
 
-    public void sort(Comparator<? super Ball> comparator);
+    void sort(Comparator<? super Ball> comparator);
 
-    public boolean addAll(List<Ball> list);
+    boolean addAll(List<Ball> list);
 }

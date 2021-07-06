@@ -13,7 +13,7 @@ public class BallEvent extends EventObject {
      */
     public BallEvent(Ball source) {
         super(source);
-    } //TODO 04.07.2021 23:58 :
+    }
 
     @Override
     public Ball getSource(){

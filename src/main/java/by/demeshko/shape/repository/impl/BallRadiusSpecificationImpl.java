@@ -1,4 +1,28 @@
 package by.demeshko.shape.repository.impl;
 
-public class BallRadiusSpecificationImpl { //TODO 04.07.2021 23:59 :
+import by.demeshko.shape.entity.Ball;
+import by.demeshko.shape.entity.Warehouse;
+import by.demeshko.shape.exception.BallException;
+import by.demeshko.shape.repository.BallSpecification;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+public class BallRadiusSpecificationImpl implements BallSpecification {
+    private double from;
+    private double to;
+    Logger logger = LogManager.getLogger();
+    private static final String NO_ID = "Can't get BallParameter with such id";
+
+
+    @Override
+    public boolean specify(Ball ball) {
+        Warehouse warehouse = Warehouse.getInstance();
+        try{
+            double radius = warehouse.get(ball.getId()).getRadius();
+            return (radius >= from) && (radius <= to);
+        } catch (BallException e){
+                logger.error(NO_ID, e);
+        }
+        return false;
+    }
 }

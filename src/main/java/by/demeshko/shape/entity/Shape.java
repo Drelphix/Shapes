@@ -1,6 +1,6 @@
 package by.demeshko.shape.entity;
 
-public class Shape { //TODO 04.07.2021 23:57 :
+public class Shape {
     private int id;
 
 
@@ -10,5 +10,25 @@ public class Shape { //TODO 04.07.2021 23:57 :
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "Shape { " +
+                "id = " + id +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Shape shape = (Shape) o;
+        return id == shape.id;
+    }
+
+    @Override
+    public int hashCode() {
+        return 20 * 40 * this.id ;
     }
 }
