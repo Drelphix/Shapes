@@ -51,7 +51,7 @@ public class Application {
         for (Ball value : balls) {
             double volume = ballService.calculateBallVolume(value);
             double radius = ballService.calculateRadius(value);
-            double surfaceArea = ballService.calculateRadius(value);
+            double surfaceArea = ballService.calculateBallSurfaceArea(value);
             warehouse.set(value.getId(), new BallParameter(volume, surfaceArea, radius));
         }
 
@@ -71,11 +71,13 @@ public class Application {
         for (int i = 1; i <= ballRepository.size(); i++) {
             logger.info("Id: " + i + " " + warehouse.get(i).toString());
         }
-
-        BallSpecification ballSpecification = new BallIdSpecificationImpl(1);
+        int id = 1;
+        BallSpecification ballSpecification = new BallIdSpecificationImpl(id);
         List<Ball> result = ballRepository.query(ballSpecification);
+        logger.info("balls where id = " + id);
         result.forEach(logger::info);
         ballRepository.sort(new BallVolumeComparator());
+        logger.info("balls sorted by volume");
         ballRepository.getAll().forEach(logger::info);
 
     }

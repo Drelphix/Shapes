@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class CustomFileReaderImpl implements CustomFileReader {
-    private static final String BALL_FILE_PATH = "./files/Ball.txt";
+    private static final String BALL_FILE_PATH = "./files/Balls.txt";
     private static final Logger logger = LogManager.getLogger();
 
     @Override
