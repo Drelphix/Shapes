@@ -45,7 +45,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallCenterComparatorCompareEqualZero(){
+    void ballCenterComparatorCompareEqualZero(){
         BallCenterComparator ballCenterComparator = new BallCenterComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);
@@ -55,7 +55,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallCenterComparatorCompareEqualMinus1(){
+    void ballCenterComparatorCompareEqualMinus1(){
         BallCenterComparator ballCenterComparator = new BallCenterComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);
@@ -64,7 +64,7 @@ class BallComparatorTest {
         Assertions.assertEquals(expected, ballCenterComparator.compare(ball1, ball3));
     }
     @Test
-    void BallRadiusComparatorCompareEqualZero(){
+    void ballRadiusComparatorCompareEqualZero(){
         BallRadiusComparator ballRadiusComparator = new BallRadiusComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);
@@ -74,7 +74,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallRadiusComparatorCompareEqual1(){
+    void ballRadiusComparatorCompareEqual1(){
         BallRadiusComparator ballRadiusComparator = new BallRadiusComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball2 = ballRepository.getBall(1);
@@ -84,7 +84,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallSurfaceComparatorCompareEqualZero(){
+    void ballSurfaceComparatorCompareEqualZero(){
         BallSurfaceAreaComparator ballSurfaceAreaComparator = new BallSurfaceAreaComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);
@@ -94,7 +94,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallSurfaceComparatorCompareEqualMinus1(){
+    void ballSurfaceComparatorCompareEqualMinus1(){
         BallSurfaceAreaComparator ballSurfaceAreaComparator = new BallSurfaceAreaComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);
@@ -104,7 +104,7 @@ class BallComparatorTest {
     }
 
     @Test
-    void BallVolumeComparatorCompareEqualZero(){
+    void ballVolumeComparatorCompareEqualZero(){
         BallVolumeComparator ballVolumeComparator = new BallVolumeComparator();
         BallRepository ballRepository = BallRepositoryImpl.getInstance();
         Ball ball1 = ballRepository.getBall(0);

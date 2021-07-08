@@ -18,6 +18,7 @@ public class BallRepositoryImpl implements BallRepository {
     public static BallRepository getInstance() {
         return Singleton.BALL_REPOSITORY;
     }
+
     @Override
     public boolean addBall(Ball ball) {
         return balls.add(new Ball(ball.getId(), ball.getCenter(), ball.getAtCircle()));
@@ -46,9 +47,11 @@ public class BallRepositoryImpl implements BallRepository {
     public boolean addAll(List<Ball> balls) {
         return this.balls.addAll(List.copyOf(balls));
     }
-    public List<Ball> getAll(){
+
+    public List<Ball> getAll() {
         return List.copyOf(this.balls);
     }
+
     @Override
     public List<Ball> query(BallSpecification specification) {
         return balls.stream().filter(specification::specify).collect(Collectors.toList());

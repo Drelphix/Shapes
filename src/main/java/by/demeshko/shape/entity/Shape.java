@@ -29,6 +29,6 @@ public class Shape {
 
     @Override
     public int hashCode() {
-        return 20 * 40 * this.id ;
+        return 20 * 40 * this.id;
     }
 }

@@ -16,7 +16,7 @@ public class BallEvent extends EventObject {
     }
 
     @Override
-    public Ball getSource(){
+    public Ball getSource() {
         return (Ball) super.getSource();
     }
 }

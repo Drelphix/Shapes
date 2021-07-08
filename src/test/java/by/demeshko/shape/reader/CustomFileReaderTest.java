@@ -15,13 +15,13 @@ import java.util.stream.Collectors;
 class CustomFileReaderTest {
 
     @Test
-    void readFile() throws BallException, IOException {
+    void readFileEqualsListString() throws BallException, IOException {
         CustomFileReader customFileReader = new CustomFileReaderImpl();
         String pathFile = "./files/TestBalls.txt";
         Path path = Paths.get(pathFile);
-        List<String> strings =  customFileReader.readFile(pathFile);
+        List<String> actual =  customFileReader.readFile(pathFile);
         List<String> expected = Files.lines(path).collect(Collectors.toList());
-        Assertions.assertEquals(expected, strings);
+        Assertions.assertEquals(expected, actual);
 
     }
 

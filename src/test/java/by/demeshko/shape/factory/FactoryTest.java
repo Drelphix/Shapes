@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 class FactoryTest {
 
     @Test
-    void PointFactoryCreateEqualsPoint() throws BallException {
+    void pointFactoryCreateEqualsPoint() throws BallException {
         PointFactory pointFactory = new PointFactory();
         double[] array = new double[]{5, 2, 3};
         Point point = pointFactory.create(array);
@@ -18,7 +18,7 @@ class FactoryTest {
     }
 
     @Test
-    void PointFactoryCreateNotEqualsPoint() throws BallException {
+    void pointFactoryCreateNotEqualsPoint() throws BallException {
         PointFactory pointFactory = new PointFactory();
         double[] array = new double[]{5, 5, 3};
         Point point = pointFactory.create(array);
@@ -27,21 +27,21 @@ class FactoryTest {
     }
 
     @Test
-    void PointFactoryCreateTwoPointsEqualsArray() throws BallException {
+    void pointFactoryCreateTwoPointsEqualsArray() throws BallException {
         PointFactory pointFactory = new PointFactory();
-        Point[] points = pointFactory.createTwoPoints(new double[]{5, 5, 3, 4, 7, 2});
+        Point[] actual = pointFactory.createTwoPoints(new double[]{5, 5, 3, 4, 7, 2});
         Point[] expected = new Point[]{new Point(5, 5, 3), new Point(4, 7, 2)};
-        Assertions.assertArrayEquals(expected, points);
+        Assertions.assertArrayEquals(expected, actual);
     }
 
     @Test
-    void BallFactoryCreateEqualsBall() throws BallException {
+    void ballFactoryCreateEqualsBall() throws BallException {
         BallFactory ballFactory = new BallFactory();
         PointFactory pointFactory = new PointFactory();
         Point[] points = pointFactory.createTwoPoints(new double[]{4, 12, 15, 0, 1, 4});
-        Ball ball = ballFactory.create(0, points);
+        Ball actual = ballFactory.create(0, points);
         Ball expected = new Ball(0, new Point(4, 12, 15), new Point(0, 1, 4));
-        Assertions.assertEquals(expected, ball);
+        Assertions.assertEquals(expected, actual);
     }
 
 }

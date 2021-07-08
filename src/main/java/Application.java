@@ -39,20 +39,20 @@ public class Application {
         PointFactory pointFactory = new PointFactory();
         ShapeIdGenerator shapeIdGenerator = new ShapeIdGenerator();
 
-        List<String> lines =  customFileReader.readFile(filePath);
+        List<String> lines = customFileReader.readFile(filePath);
         List<double[]> ballPoints = ballParser.parseStringList(lines);
         List<Ball> balls = new ArrayList<>();
-        for(double[] points : ballPoints){
+        for (double[] points : ballPoints) {
             int id = shapeIdGenerator.generateId();
             Point[] pointsList = pointFactory.createTwoPoints(points);
             balls.add(ballFactory.create(id, pointsList));
         }
 
-        for (int i = 0; i < balls.size(); i++) {
-            double volume  = ballService.calculateBallVolume(balls.get(i));
-            double radius = ballService.calculateRadius(balls.get(i));
-            double surfaceArea = ballService.calculateRadius(balls.get(i));
-            warehouse.set(balls.get(i).getId(), new BallParameter(volume, surfaceArea, radius));
+        for (Ball value : balls) {
+            double volume = ballService.calculateBallVolume(value);
+            double radius = ballService.calculateRadius(value);
+            double surfaceArea = ballService.calculateRadius(value);
+            warehouse.set(value.getId(), new BallParameter(volume, surfaceArea, radius));
         }
 
         ballRepository.addAll(balls);

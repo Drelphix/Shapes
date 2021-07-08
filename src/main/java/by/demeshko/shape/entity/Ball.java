@@ -54,7 +54,7 @@ public class Ball extends Shape implements BallObservable {
 
     @Override
     public void notifyObservers() {
-        if (observer != null){
+        if (observer != null) {
             observer.updateParameters(new BallEvent(this));
         }
     }

@@ -21,9 +21,6 @@ public class BallServiceImpl implements BallService {
     @Override
     public boolean touchCoordinatePlane(Ball ball) {
         double radius = calculateDistance(ball.getCenter(), ball.getAtCircle());
-        if (radius == 0) {
-            radius = calculateDistance(ball.getCenter(), ball.getAtCircle());
-        }
         Point center = ball.getCenter();
         return Math.abs(center.getX()) - radius == 0 ||
                 Math.abs(center.getY()) - radius == 0 ||
@@ -63,9 +60,9 @@ public class BallServiceImpl implements BallService {
     }
 
     private double calculateDistance(Point center, Point second) {
-        return Math.abs(Math.sqrt(Math.pow(second.getX() - center.getX(), 2))
+        return Math.abs(Math.sqrt(Math.pow(second.getX() - center.getX(), 2)
                 + Math.pow(second.getY() - center.getY(), 2)
-                + Math.pow(second.getZ() - center.getZ(), 2));
+                + Math.pow(second.getZ() - center.getZ(), 2)));
     }
 
     private double calculateBallSegmentVolume(double height, double radius) {

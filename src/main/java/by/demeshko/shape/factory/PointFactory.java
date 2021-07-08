@@ -12,8 +12,8 @@ public class PointFactory {
         return new Point(params[0], params[1], params[2]);
     }
 
-    public Point[] createTwoPoints(double[] params) throws  BallException{
-        if( params.length != 6) {
+    public Point[] createTwoPoints(double[] params) throws BallException {
+        if (params.length != 6) {
             throw new BallException();
         }
         Point point1 = new Point(params[0], params[1], params[2]);
