@@ -11,12 +11,13 @@ import java.util.stream.Collectors;
 
 public class BallRepositoryImpl implements BallRepository {
     private final List<Ball> balls = new ArrayList<>();
+    private static final BallRepository BALL_REPOSITORY = new BallRepositoryImpl();
 
     private BallRepositoryImpl() {
     }
 
     public static BallRepository getInstance() {
-        return Singleton.BALL_REPOSITORY;
+        return BALL_REPOSITORY;
     }
 
     @Override
@@ -60,10 +61,6 @@ public class BallRepositoryImpl implements BallRepository {
     @Override
     public void sort(Comparator<? super Ball> comparator) {
         balls.sort(comparator);
-    }
-
-    private static class Singleton {
-        private static final BallRepository BALL_REPOSITORY = new BallRepositoryImpl();
     }
 
 }

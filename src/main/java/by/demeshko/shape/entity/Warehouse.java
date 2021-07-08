@@ -8,12 +8,13 @@ import java.util.Optional;
 
 public class Warehouse {
     private final Map<Integer, BallParameter> parameters = new HashMap<>();
+    private static final Warehouse WAREHOUSE = new Warehouse();
 
     private Warehouse() {
     }
 
     public static Warehouse getInstance() {
-        return Singleton.WAREHOUSE;
+        return WAREHOUSE;
     }
 
     public BallParameter set(int id, BallParameter ballParameter) {
@@ -31,10 +32,6 @@ public class Warehouse {
     public boolean remove(int id) {
         Optional<BallParameter> ballParameter = Optional.ofNullable(parameters.remove(id));
         return ballParameter.isPresent();
-    }
-
-    private static class Singleton {
-        private static final Warehouse WAREHOUSE = new Warehouse();
     }
 
 
