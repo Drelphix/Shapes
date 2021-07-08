@@ -1,3 +1,5 @@
+package by.demeshko.shape.main;
+
 import by.demeshko.shape.comparator.BallVolumeComparator;
 import by.demeshko.shape.entity.Ball;
 import by.demeshko.shape.entity.BallParameter;

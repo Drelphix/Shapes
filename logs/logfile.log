@@ -27,115 +27,115 @@ INFO  | 2021-07-05 22:26:03 | [main] impl.CustomFileReaderImpl (CustomFileReader
 INFO  | 2021-07-05 22:28:30 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
 INFO  | 2021-07-05 22:30:35 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
 INFO  | 2021-07-05 22:31:43 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:31:43 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:31:43 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
 INFO  | 2021-07-05 22:32:24 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:32:24 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:33:28 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:32:24 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:33:28 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
 INFO  | 2021-07-05 22:34:00 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:34:00 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:34:29 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:00 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:34:29 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
 INFO  | 2021-07-05 22:36:23 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 8694631.816751076, surfaceArea = 247710.3081695463, radius = 140.4}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 1.1548479868380515E8, surfaceArea = 1389290.8112337464, radius = 332.5}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 1.5163867694681095E7, surfaceArea = 358908.11111671233, radius = 169.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 2.0874852740713798E7, surfaceArea = 444145.8029939106, radius = 188.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 2836321.439616584, surfaceArea = 117385.26392619075, radius = 96.65}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 1.1302675975290554E7, surfaceArea = 295051.2556363781, radius = 153.23000000000002}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 1.4143209511636123E8, surfaceArea = 1590286.1091399475, radius = 355.74}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 955917.608541732, surfaceArea = 56849.099526716134, radius = 67.26}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 3.590411875088968E7, surfaceArea = 637587.014444212, radius = 225.25}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 1.4465271160664535E8, surfaceArea = 1614337.499097655, radius = 358.41999999999996}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 1.925320973682055E7, surfaceArea = 420835.1855042743, radius = 183.0}
-INFO  | 2021-07-05 22:36:23 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 2.9511904617929418E7, surfaceArea = 559467.3861218847, radius = 211.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 8694631.816751076, surfaceArea = 247710.3081695463, radius = 140.4}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 1.1548479868380515E8, surfaceArea = 1389290.8112337464, radius = 332.5}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 1.5163867694681095E7, surfaceArea = 358908.11111671233, radius = 169.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 2.0874852740713798E7, surfaceArea = 444145.8029939106, radius = 188.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 2836321.439616584, surfaceArea = 117385.26392619075, radius = 96.65}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 1.1302675975290554E7, surfaceArea = 295051.2556363781, radius = 153.23000000000002}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 1.4143209511636123E8, surfaceArea = 1590286.1091399475, radius = 355.74}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 955917.608541732, surfaceArea = 56849.099526716134, radius = 67.26}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 3.590411875088968E7, surfaceArea = 637587.014444212, radius = 225.25}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 1.4465271160664535E8, surfaceArea = 1614337.499097655, radius = 358.41999999999996}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 1.925320973682055E7, surfaceArea = 420835.1855042743, radius = 183.0}
+INFO  | 2021-07-05 22:36:23 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 2.9511904617929418E7, surfaceArea = 559467.3861218847, radius = 211.0}
 INFO  | 2021-07-05 22:39:57 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:39:57 | [main] Application (Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:39:57 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: 1.5y: 2.6z: 1.1 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: 17.0y: 5.0z: 15.0 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 12.5y: 17.0z: 10.0 }; 
@@ -148,7 +148,7 @@ INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: -12.0y: -25.0z: -3.0 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: -2.0z: 6.0 }; Point { x: -5.0y: 25.0z: 12.0 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.0y: 25.0z: 12.0 }; Point { x: -5.0y: -2.0z: 6.0 }; 
-INFO  | 2021-07-05 22:39:57 | [main] Application (Application.java:67) - recalculated parameters
+INFO  | 2021-07-05 22:39:57 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:67) - recalculated parameters
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 1.5 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 12.5y: 17.0z: 10.0 }; Point { x: -0.5y: 1.0z: 2.5 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: 17.0y: 5.0z: 15.0 }; Point { x: 0.5y: 2.0z: 3.5 }; 
@@ -175,32 +175,32 @@ INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.1y: -6.0z: -7.2 }; Point { x: 4.5y: 6.0z: 7.5 }; 
 INFO  | 2021-07-05 22:39:57 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: 7.5y: 9.0z: 10.5 }; 
 INFO  | 2021-07-05 22:44:55 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/TestBall.txt
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4164377.165651795, surfaceArea = 151638.67694681094, radius = 109.85}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 9.472790945837885E7, surfaceArea = 1217386.7882201297, radius = 311.25}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 7859037.97826305, surfaceArea = 231573.86307957422, radius = 135.75}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 1.164238202370893E7, surfaceArea = 300933.9456855297, radius = 154.75}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 1513903.0388825524, surfaceArea = 77239.95096339553, radius = 78.4}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 6192053.060312296, surfaceArea = 197545.1606416429, radius = 125.38}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 2.0119767717095262E8, surfaceArea = 2011524.1787693033, radius = 400.09}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 347652.2068720944, surfaceArea = 28964.98286791039, radius = 48.010000000000005}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 6.1835968200607896E7, surfaceArea = 916088.4177867837, radius = 270.0}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 2.048096492723474E8, surfaceArea = 2035527.1128019223, radius = 402.46999999999997}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 2.5038611209747776E7, surfaceArea = 501398.9729110944, radius = 199.75}
-INFO  | 2021-07-05 22:44:55 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 3.0252312572896045E7, surfaceArea = 568786.1353305954, radius = 212.75}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 5876080.61623644, surfaceArea = 123.21, radius = 123.21}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 1.64077227937068E7, surfaceArea = 173.5, radius = 173.5}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 3.0979599528700274E8, surfaceArea = 462.0, radius = 462.0}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 127663.71839464824, surfaceArea = 34.379999999999995, radius = 34.379999999999995}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 1.8850718165164564E9, surfaceArea = 843.4499999999999, radius = 843.4499999999999}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 1.3490580536303414E7, surfaceArea = 162.54000000000002, radius = 162.54000000000002}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 8930825.116297511, surfaceArea = 141.66, radius = 141.66}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 2.0072569219313696E7, surfaceArea = 185.56000000000003, radius = 185.56000000000003}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 3.642456744801919E8, surfaceArea = 487.61999999999995, radius = 487.61999999999995}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 1.4064819989332714E9, surfaceArea = 765.0, radius = 765.0}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4164377.165651795, surfaceArea = 151638.67694681094, radius = 109.85}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 9.472790945837885E7, surfaceArea = 1217386.7882201297, radius = 311.25}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 7859037.97826305, surfaceArea = 231573.86307957422, radius = 135.75}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 1.164238202370893E7, surfaceArea = 300933.9456855297, radius = 154.75}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 1513903.0388825524, surfaceArea = 77239.95096339553, radius = 78.4}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 6192053.060312296, surfaceArea = 197545.1606416429, radius = 125.38}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 2.0119767717095262E8, surfaceArea = 2011524.1787693033, radius = 400.09}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 347652.2068720944, surfaceArea = 28964.98286791039, radius = 48.010000000000005}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 6.1835968200607896E7, surfaceArea = 916088.4177867837, radius = 270.0}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 2.048096492723474E8, surfaceArea = 2035527.1128019223, radius = 402.46999999999997}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 2.5038611209747776E7, surfaceArea = 501398.9729110944, radius = 199.75}
+INFO  | 2021-07-05 22:44:55 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 3.0252312572896045E7, surfaceArea = 568786.1353305954, radius = 212.75}
 INFO  | 2021-07-05 22:44:55 | [main] util.ArrayList (ArrayList.java:1511) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 2.5 }; 
 INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: -10.3y: 5.6z: 15.0 }; Point { x: 5.5y: 7.0z: 9.5 }; 
 INFO  | 2021-07-05 22:44:55 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 2.5y: 4.0z: 6.5 }; 
@@ -938,32 +938,32 @@ by.demeshko.shape.exception.BallException: null
 INFO  | 2021-07-08 16:57:45 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Ball.txt
 ERROR | 2021-07-08 16:57:45 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:30) - File ./files/Ball.txt not found!
 INFO  | 2021-07-08 16:58:08 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 16:58:08 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 16:58:08 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
 INFO  | 2021-07-08 16:58:08 | [main] util.ArrayList (ArrayList.java:1511) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 2.5 }; 
 INFO  | 2021-07-08 16:58:08 | [main] lang.Iterable (Iterable.java:75) - Point { x: 8.4y: 10.5z: 12.0 }; Point { x: 2.5y: 4.0z: 6.5 }; 
 INFO  | 2021-07-08 16:58:08 | [main] lang.Iterable (Iterable.java:75) - Point { x: 2.5y: 3.7z: 12.1 }; Point { x: -1.5y: 0.0z: 2.5 }; 
@@ -978,32 +978,32 @@ INFO  | 2021-07-08 16:58:08 | [main] lang.Iterable (Iterable.java:75) - Point { 
 INFO  | 2021-07-08 16:58:08 | [main] lang.Iterable (Iterable.java:75) - Point { x: -5.2y: -3.1z: -4.1 }; Point { x: 7.5y: 9.0z: 11.5 }; 
 INFO  | 2021-07-08 16:58:08 | [main] lang.Iterable (Iterable.java:75) - Point { x: 25.1y: 10.3z: 16.2 }; Point { x: 3.5y: 5.0z: 7.5 }; 
 INFO  | 2021-07-08 16:58:35 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 16:58:35 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 16:58:36 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 16:58:36 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 16:58:36 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 16:58:35 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 16:58:36 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 16:58:36 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 16:58:36 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
 INFO  | 2021-07-08 16:58:36 | [main] util.ArrayList (ArrayList.java:1511) - Point {x: 2.5 y: 3.7 z: 12.1}; Point {x: -1.5 y: 0.0 z: 2.5}; 
 INFO  | 2021-07-08 16:58:36 | [main] lang.Iterable (Iterable.java:75) - Point {x: 8.4 y: 10.5 z: 12.0}; Point {x: 2.5 y: 4.0 z: 6.5}; 
 INFO  | 2021-07-08 16:58:36 | [main] lang.Iterable (Iterable.java:75) - Point {x: 2.5 y: 3.7 z: 12.1}; Point {x: -1.5 y: 0.0 z: 2.5}; 
@@ -1018,32 +1018,32 @@ INFO  | 2021-07-08 16:58:36 | [main] lang.Iterable (Iterable.java:75) - Point {x
 INFO  | 2021-07-08 16:58:36 | [main] lang.Iterable (Iterable.java:75) - Point {x: -5.2 y: -3.1 z: -4.1}; Point {x: 7.5 y: 9.0 z: 11.5}; 
 INFO  | 2021-07-08 16:58:36 | [main] lang.Iterable (Iterable.java:75) - Point {x: 25.1 y: 10.3 z: 16.2}; Point {x: 3.5 y: 5.0 z: 7.5}; 
 INFO  | 2021-07-08 16:58:46 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 16:58:46 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 11.1, radius = 11.1}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 13.756816492197604, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 24.372115213907882, radius = 24.372115213907882}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 17.221207855432212, radius = 17.221207855432212}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 41.53661035761103, radius = 41.53661035761103}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 13.238202294873727, radius = 13.238202294873727}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 23.09653653689228, radius = 23.09653653689228}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 20.479257799051215, radius = 20.479257799051215}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 22.957787349829687, radius = 22.957787349829687}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 27.65863337187866, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 16:58:46 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
 INFO  | 2021-07-08 16:58:46 | [main] util.ArrayList (ArrayList.java:1511) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
 INFO  | 2021-07-08 16:58:46 | [main] lang.Iterable (Iterable.java:75) - Point {x:8.4 y:10.5 z:12.0}; Point {x:2.5 y:4.0 z:6.5}; 
 INFO  | 2021-07-08 16:58:46 | [main] lang.Iterable (Iterable.java:75) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
@@ -1058,32 +1058,32 @@ INFO  | 2021-07-08 16:58:46 | [main] lang.Iterable (Iterable.java:75) - Point {x
 INFO  | 2021-07-08 16:58:46 | [main] lang.Iterable (Iterable.java:75) - Point {x:-5.2 y:-3.1 z:-4.1}; Point {x:7.5 y:9.0 z:11.5}; 
 INFO  | 2021-07-08 16:58:46 | [main] lang.Iterable (Iterable.java:75) - Point {x:25.1 y:10.3 z:16.2}; Point {x:3.5 y:5.0 z:7.5}; 
 INFO  | 2021-07-08 16:59:39 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 16:59:39 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 16:59:39 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
 INFO  | 2021-07-08 16:59:39 | [main] util.ArrayList (ArrayList.java:1511) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
 INFO  | 2021-07-08 16:59:39 | [main] lang.Iterable (Iterable.java:75) - Point {x:8.4 y:10.5 z:12.0}; Point {x:2.5 y:4.0 z:6.5}; 
 INFO  | 2021-07-08 16:59:39 | [main] lang.Iterable (Iterable.java:75) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
@@ -1098,32 +1098,32 @@ INFO  | 2021-07-08 16:59:39 | [main] lang.Iterable (Iterable.java:75) - Point {x
 INFO  | 2021-07-08 16:59:39 | [main] lang.Iterable (Iterable.java:75) - Point {x:-5.2 y:-3.1 z:-4.1}; Point {x:7.5 y:9.0 z:11.5}; 
 INFO  | 2021-07-08 16:59:39 | [main] lang.Iterable (Iterable.java:75) - Point {x:25.1 y:10.3 z:16.2}; Point {x:3.5 y:5.0 z:7.5}; 
 INFO  | 2021-07-08 17:00:07 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 17:00:07 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 17:00:07 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
 INFO  | 2021-07-08 17:00:36 | [main] util.ArrayList (ArrayList.java:1511) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
 INFO  | 2021-07-08 17:00:36 | [main] lang.Iterable (Iterable.java:75) - Point {x:8.4 y:10.5 z:12.0}; Point {x:2.5 y:4.0 z:6.5}; 
 INFO  | 2021-07-08 17:00:36 | [main] lang.Iterable (Iterable.java:75) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
@@ -1138,35 +1138,35 @@ INFO  | 2021-07-08 17:00:36 | [main] lang.Iterable (Iterable.java:75) - Point {x
 INFO  | 2021-07-08 17:00:36 | [main] lang.Iterable (Iterable.java:75) - Point {x:-5.2 y:-3.1 z:-4.1}; Point {x:7.5 y:9.0 z:11.5}; 
 INFO  | 2021-07-08 17:00:36 | [main] lang.Iterable (Iterable.java:75) - Point {x:25.1 y:10.3 z:16.2}; Point {x:3.5 y:5.0 z:7.5}; 
 INFO  | 2021-07-08 17:01:37 | [main] impl.CustomFileReaderImpl (CustomFileReaderImpl.java:23) - ./files/Balls.txt
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:59) - initial parameters
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:70) - recalculated parameters
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:77) - balls where id = 1
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:59) - initial parameters
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 1 BallParameter{ volume = 4296.539502421662, surfaceArea = 1548.3025233951935, radius = 11.1}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 2 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 3 BallParameter{ volume = 8179.065854225968, surfaceArea = 2378.1856387674734, radius = 13.756816492197604}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 4 BallParameter{ volume = 45480.95131642348, surfaceArea = 7464.4241449293495, radius = 24.372115213907882}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 5 BallParameter{ volume = 16045.036096480539, surfaceArea = 3726.8085331005013, radius = 17.221207855432212}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 6 BallParameter{ volume = 225135.0070933864, surfaceArea = 21680.633557247736, radius = 41.53661035761103}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 7 BallParameter{ volume = 7288.479098123475, surfaceArea = 2202.256450166445, radius = 13.238202294873727}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 8 BallParameter{ volume = 38707.08372686605, surfaceArea = 6703.530404229901, radius = 23.09653653689228}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 9 BallParameter{ volume = 26983.141566526243, surfaceArea = 5270.3358356622375, radius = 20.479257799051215}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 10 BallParameter{ volume = 38013.68391560001, surfaceArea = 6623.2312960041445, radius = 22.957787349829687}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 11 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:61) - Id: 12 BallParameter{ volume = 66472.50194821203, surfaceArea = 9613.273519984767, radius = 27.65863337187866}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:70) - recalculated parameters
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 1 BallParameter{ volume = 4225.597948105571, surfaceArea = 1531.2122593596648, radius = 11.038568747804218}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 2 BallParameter{ volume = 31730.275124904685, surfaceArea = 5871.636669559322, radius = 21.615966321217286}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 3 BallParameter{ volume = 24335.90617265044, surfaceArea = 4919.734095521616, radius = 19.78635893740938}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 4 BallParameter{ volume = 10146.751740180842, surfaceArea = 2745.7519792374787, radius = 14.781745499094482}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 5 BallParameter{ volume = 3492.2889113911415, surfaceArea = 1348.4972306268826, radius = 10.359054010864119}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 6 BallParameter{ volume = 42790.821052909094, surfaceArea = 7167.103816193611, radius = 23.881792227552772}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 7 BallParameter{ volume = 33311.8182627704, surfaceArea = 6065.158777020454, radius = 21.9692967570653}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 8 BallParameter{ volume = 14865.411353072013, surfaceArea = 3541.831557657133, radius = 16.788388844674763}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 9 BallParameter{ volume = 20636.991830414507, surfaceArea = 4407.654492986479, radius = 18.728320800328042}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 10 BallParameter{ volume = 40639.48581852519, surfaceArea = 6924.8241907487645, radius = 23.474667196788968}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 11 BallParameter{ volume = 22223.175244869144, surfaceArea = 4630.707571391355, radius = 19.196353820452465}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:72) - Id: 12 BallParameter{ volume = 25938.088277637984, surfaceArea = 5133.362395965722, radius = 20.211382931407737}
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:77) - balls where id = 1
 INFO  | 2021-07-08 17:01:37 | [main] util.ArrayList (ArrayList.java:1511) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
-INFO  | 2021-07-08 17:01:37 | [main] Application (Application.java:80) - balls sorted by volume1
+INFO  | 2021-07-08 17:01:37 | [main] by.demeshko.shape.main.Application (by.demeshko.shape.main.Application.java:80) - balls sorted by volume1
 INFO  | 2021-07-08 17:01:37 | [main] lang.Iterable (Iterable.java:75) - Point {x:8.4 y:10.5 z:12.0}; Point {x:2.5 y:4.0 z:6.5}; 
 INFO  | 2021-07-08 17:01:37 | [main] lang.Iterable (Iterable.java:75) - Point {x:2.5 y:3.7 z:12.1}; Point {x:-1.5 y:0.0 z:2.5}; 
 INFO  | 2021-07-08 17:01:37 | [main] lang.Iterable (Iterable.java:75) - Point {x:10.0 y:9.0 z:16.0}; Point {x:1.5 y:3.0 z:5.5}; 
