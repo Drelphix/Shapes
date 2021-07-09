@@ -15,4 +15,6 @@ public interface BallService {
     double calculateVolumeRatio(Ball ball, Point[] points) throws BallException;
 
     double calculateRadius(Ball ball);
+
+    public double calculateDistance(Point center, Point second);
 }

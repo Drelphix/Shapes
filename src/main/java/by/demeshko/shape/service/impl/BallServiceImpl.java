@@ -59,7 +59,7 @@ public class BallServiceImpl implements BallService {
         return calculateDistance(center, atCircle);
     }
 
-    private double calculateDistance(Point center, Point second) {
+    public double calculateDistance(Point center, Point second) {
         return Math.abs(Math.sqrt(Math.pow(second.getX() - center.getX(), 2)
                 + Math.pow(second.getY() - center.getY(), 2)
                 + Math.pow(second.getZ() - center.getZ(), 2)));
